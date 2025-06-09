@@ -24,8 +24,8 @@ A comprehensive RESTful API built with Express.js for managing products. This AP
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
-   cd express-product-api
+   git clone <https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-AmungaBrenda.git>
+   cd week-2-express-js-assignment-AmungaBrenda
    ```
 
 2. **Install dependencies:**
